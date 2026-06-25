@@ -23,7 +23,7 @@ Environment variables read by this plugin (extracted from the source — see the
 
 | Env var |
 |---|
-| `AI_DRIVER"` |
+| `AI_DRIVER` |
 
 ## Usage
 
